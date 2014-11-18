@@ -1,7 +1,7 @@
 package m5;
 
 
-//VERSIO MASTER
+//VERSIO 1
 class Employee {
 
 	   private String myName;
