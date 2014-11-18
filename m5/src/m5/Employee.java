@@ -1,5 +1,6 @@
 package m5;
 
+//VERSIO 2
 class Employee {
 
 	   private String myName;
